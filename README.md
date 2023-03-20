@@ -1,5 +1,5 @@
 # 💫 About Me:
-I m Anas JEGOUAL Full stack developer building websites and web applications 🤝
+I m Anas JEGOUAL Full stack developer building websites and mobile applications 🤝
 
 
 ## 🌐 Socials:
