@@ -3,6 +3,9 @@
  <h3 align="center">Full stack developer building websites and mobile applications 🤝</h3>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnasJeg&label=Profile%20views&color=0e75b6&style=flat" alt="AnasJeg" /> </p>
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anasjegoual) 
 
