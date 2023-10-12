@@ -151,8 +151,5 @@
     </div>
     <br>
     <br>
-<div>
-    ### ✍️ Random Dev Quote
-![Random Dev Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
-</div>
+
 </div>
