@@ -92,22 +92,19 @@
         </a>
     </p>
 </details>
-
+    </br>
         <details align="" open> 
-            <summary><b>Databases & Cloud Hosting</b></summary>
+            <summary><b>Databases</b></summary>
             <br/>
             <p align=""> 
+                 <a href="https://www.postgresql.org">
+                    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0175C2?style=for-the-badge&logo=postgresql&logoColor=white">
+                </a>
                 <a href="https://www.mysql.com/">
                     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
                 </a>
                 <a href="https://www.oracle.com/">
                     <img alt="Oracle" src="https://img.shields.io/badge/Oracle-f80000?style=for-the-badge&logo=oracle&logoColor=white">
-                </a>
-                <a href="https://www.postgresql.org">
-                    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0175C2?style=for-the-badge&logo=postgresql&logoColor=white">
-                </a>
-                <a href="https://www.github.com">
-                    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
                 </a>
             </p>
         </details>
@@ -118,6 +115,9 @@
                 <a href="#">
                     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
                 </a>
+                 <a href="#">
+                    <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+                </a>
                 <a href="#">
                     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
                 </a>
@@ -126,9 +126,6 @@
                 </a>
                 <a href="#">
                     <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20IDEA-34495E.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white">
-                </a>
-                <a href="#">
-                    <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
                 </a>
                 <a href="#">
                     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
@@ -152,13 +149,11 @@
         <div>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasJeg&langs_count=8&count_private=true&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=algolia" alt="GitHub Most Used Languages" width="550" />
         <div>
-        <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
     </div>
     <br>
     <br>
         <div>
          ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
         </div>
 </div>
