@@ -117,9 +117,6 @@
             <a href="https://www.docker.com/">
                 <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
             </a>
-            <a href="https://www.linux.org/">
-                <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-            </a>
             <a href="https://code.visualstudio.com/">
                 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
             </a>
