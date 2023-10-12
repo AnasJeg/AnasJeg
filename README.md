@@ -3,7 +3,7 @@
         <p align=center>
             <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
         </p>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=30&center=true&vCenter=true&width=672&height=55&lines=Hi+there+I+am+Anas+JEGOUAL;Software+Engineering;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=30&center=true&vCenter=true&width=672&height=55&lines=Hi+there+I+am+Anas+JEGOUAL;Software+Engineer;" alt="Headline" />
     </div>
     <div align=center>
         <p align=center>
@@ -30,7 +30,7 @@
     <div align=center>
         <p>
             <strong>
-               I'm 5 Years Computer Science Student of software development experience in object oriented programming, development of Multi-Tier distributed, Enterprise applications using Java and Web technologies with Software Development Life Cycle.
+               I'm 5 Years software engineer with experience in software development, specializing in object-oriented programming. I've worked on the development of multi-tier distributed enterprise applications using Java and various web technologies, while following the Software Development Life Cycle. My expertise also extends to full-stack web and mobile app development, as well as microservices.
                 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
             </strong>
         </p>
