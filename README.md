@@ -37,92 +37,103 @@
     </div>
     </br>
     <div align=center>
-        <h1>🛠️ My Skills</h1>
-        <details align="" open> 
-            <summary><b>Languages</b></summary>
-            <br/>
-            <p align="">
-                <a href="https://www.java.com/en/">
-                    <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/-JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-                </a>
-                <a href="https://www.javascript.com/">
-                    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-                </a>
-                <a href="https://www.typescriptlang.org/">
-                    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0175C2?style=for-the-badge&logo=typescript&logoColor=white"/>
-                </a>
-                <a href="https://python.org/">
-                    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-                </a>
-                <a href="https://www.w3schools.com/html/">
-                    <img alt="HTML" src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
-                </a>
-                <a href="https://www.w3schools.com/css/">
-                    <img alt="CSS" src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
-                </a>
-            </p>
-        </details>
-        <details align="" open>
-    <summary><b>Frameworks and Libraries</b></summary>
-    <br/>
-    <p align="">
-         <a href="https://spring.io/">
-            <img alt="Spring Framework" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-        </a>
-        <a href="https://reactjs.org/">
-            <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-        </a>
-        <a href="https://angular.io/">
-            <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-        </a>
-         <a href="https://flask.palletsprojects.com/">
-            <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-        </a>
-    </p>
-</details>
-    </br>
-        <details align="" open> 
-            <summary><b>Databases</b></summary>
-            <br/>
-            <p align=""> 
-                 <a href="https://www.postgresql.org">
-                    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0175C2?style=for-the-badge&logo=postgresql&logoColor=white">
-                </a>
-                <a href="https://www.mysql.com/">
-                    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-                </a>
-                <a href="https://www.oracle.com/">
-                    <img alt="Oracle" src="https://img.shields.io/badge/Oracle-f80000?style=for-the-badge&logo=oracle&logoColor=white">
-                </a>
-            </p>
-        </details>
-        <details align="" open> 
-            <summary><b>Software & Tools</b></summary>
-            <br/>
-            <p align=""> 
-                <a href="#">
-                    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-                </a>
-                 <a href="#">
-                    <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-                </a>
-                <a href="#">
-                    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-                </a>
-                <a href="#">
-                    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-                </a>
-                <a href="#">
-                    <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20IDEA-34495E.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white">
-                </a>
-                <a href="#">
-                    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-                </a>
-            </p>
-        </details>
-        <br>
-        <br>
-    </div>
+    <h1>🛠️ My Skills</h1>
+    <details align="" open>
+        <summary><b>Languages</b></summary>
+        <br/>
+        <p align="">
+            <a href="https://www.java.com/en/">
+                <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/-JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+            </a>
+            <a href="https://www.javascript.com/">
+                <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+            </a>
+            <a href="https://www.typescriptlang.org/">
+                <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0175C2?style=for-the-badge&logo=typescript&logoColor=white"/>
+            </a>
+            <a href="https://python.org/">
+                <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+            </a>
+            <a href="https://www.w3schools.com/html/">
+                <img alt="HTML" src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
+            </a>
+            <a href="https://www.w3schools.com/css/">
+                <img alt="CSS" src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
+            </a>
+            <a href="https://dart.dev/">
+                <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+            </a>
+            <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+                <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+            </a>
+        </p>
+    </details>
+    <details align="" open>
+        <summary><b>Frameworks and Libraries</b></summary>
+        <br/>
+        <p align="">
+            <a href="https://spring.io/">
+                <img alt="Spring Framework" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+            </a>
+            <a href="https://reactjs.org/">
+                <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+            </a>
+            <a href="https://angular.io/">
+                <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+            </a>
+            <a href="https://flask.palletsprojects.com/">
+                <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+            </a>
+            <a href="https://flutter.dev/">
+                <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+            </a>
+        </p>
+    </details>
+    <details align="" open>
+        <summary><b>Databases</b></summary>
+        <br/>
+        <p align="">
+            <a href="https://www.postgresql.org">
+                <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0175C2?style=for-the-badge&logo=postgresql&logoColor=white">
+            </a>
+            <a href="https://www.mysql.com/">
+                <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+            </a>
+            <a href="https://www.oracle.com/">
+                <img alt="Oracle" src="https://img.shields.io/badge/Oracle-f80000?style=for-the-badge&logo=oracle&logoColor=white">
+            </a>
+            <a href="https://www.mongodb.com/">
+                <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+            </a>
+        </p>
+    </details>
+    <details align="" open>
+        <summary><b>Software & Tools</b></summary>
+        <br/>
+        <p align="">
+            <a href="https://git-scm.com/">
+                <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+            </a>
+            <a href="https://www.docker.com/">
+                <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+            </a>
+            <a href="https://www.linux.org/">
+                <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+            </a>
+            <a href="https://code.visualstudio.com/">
+                <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+            </a>
+            <a href="https://www.jetbrains.com/idea/">
+                <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20IDEA-34495E.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white">
+            </a>
+            <a href="https://www.postman.com/">
+                <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+            </a>
+        </p>
+    </details>
+    <br>
+    <br>
+</div>
     <div align=center>
         <h1>📊 Contribution Activity</h1>
         <br>
