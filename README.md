@@ -148,5 +148,8 @@
     </div>
     <br>
     <br>
-
+            <div align=center>                
+<h1> ✍️ Random Dev Quote </h1>
+               <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="ab-talbi" width="550" />  
 </div>
+            </div>
