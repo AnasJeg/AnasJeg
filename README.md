@@ -151,7 +151,8 @@
     </div>
     <br>
     <br>
-### ✍️ Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<div>
+    ### ✍️ Random Dev Quote
+![Random Dev Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
+</div>
 </div>
