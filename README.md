@@ -77,18 +77,22 @@
                 </a>
             </p>
         </details>
-        <details align="" open> 
-            <summary><b>Frameworks and Libraries</b></summary>
-            <br/>
-            <p align=""> 
-                <a href="https://reactjs.org/"> 
-                    <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-                </a>
-                <a href="https://getbootstrap.com/"> 
-                    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-                </a>
-            </p>
-        </details>
+        <details align="" open>
+    <summary><b>Frameworks and Libraries</b></summary>
+    <br/>
+    <p align="">
+         <a href="https://spring.io/">
+            <img alt="Spring Framework" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+        </a>
+        <a href="https://reactjs.org/">
+            <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+        </a>
+        <a href="https://angular.io/">
+            <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+        </a>
+    </p>
+</details>
+
         <details align="" open> 
             <summary><b>Databases & Cloud Hosting</b></summary>
             <br/>
