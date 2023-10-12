@@ -45,26 +45,11 @@
                 <a href="https://www.java.com/en/">
                     <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/-JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
                 </a>
-                <a href="https://nodejs.org">
-                    <img alt="nodejs" src="https://custom-icon-badges.demolab.com/badge/-NODEJS-ED8B00?style=for-the-badge&logo=nodejs&logoColor=black"/>
-                </a>
-                  <a href="https://www.mongodb.com/">
-                    <img alt="CSS" src="https://img.shields.io/badge/mongodb-264de4?style=for-the-badge&logo=mongodb&logoColor=white"/>
-                </a>
-                <a href="https://www.djangoproject.com/">
-                    <img alt="CSharp" src="https://img.shields.io/badge/Django-239120?style=for-the-badge&logo=django&logoColor=white"/>
-                </a>
                 <a href="https://www.javascript.com/">
                     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
                 </a>
                 <a href="https://www.typescriptlang.org/">
                     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0175C2?style=for-the-badge&logo=typescript&logoColor=white"/>
-                </a>
-                <a href="https://php.net/">
-                    <img alt="PHP" src="https://img.shields.io/badge/php-474A8A?style=for-the-badge&logo=php&logoColor=white"/>
-                </a>
-                <a href="https://www.w3schools.com/c++/">
-                    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white"/>
                 </a>
                 <a href="https://python.org/">
                     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
@@ -89,6 +74,9 @@
         </a>
         <a href="https://angular.io/">
             <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+        </a>
+         <a href="https://flask.palletsprojects.com/">
+            <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
         </a>
     </p>
 </details>
