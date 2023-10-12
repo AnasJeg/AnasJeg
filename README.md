@@ -151,8 +151,7 @@
     </div>
     <br>
     <br>
-        <div>
-         ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-        </div>
+### ✍️ Random Dev Quote
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 </div>
