@@ -153,5 +153,3 @@
                <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="ab-talbi" width="550" />  
 </div>
             </div>
-            *   Donut Chart layout
-              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasJeg\&layout=donut"/>
