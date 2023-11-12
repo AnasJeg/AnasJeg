@@ -143,7 +143,7 @@
         <div>
         <br>
         <div>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasJeg&langs_count=10&count_private=true&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=algolia" alt="GitHub Most Used Languages" width="550" />
+            <img src="https://githubreadmestats.vercel.app/api/toplangs/username=AnasJeg&langs_count=10&count_private=true&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=algolia" alt="GitHub Most Used Languages" width="550" />
         <div>
     </div>
     <br>
