@@ -145,9 +145,6 @@
         <div>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasJeg&langs_count=10&count_private=true&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=algolia" alt="GitHub Most Used Languages" width="550" />
         <div>
-            <div>
-                 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnasJeg&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) 
-            </div>
     </div>
     <br>
     <br>
